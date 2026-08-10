@@ -1,6 +1,6 @@
 import { forwardRef } from "react";
 
-const ResultModal = forwareRef(function ResultModal(
+const ResultModal = forwardRef(function ResultModal(
   { result, targetTime },
   ref,
 ) {
